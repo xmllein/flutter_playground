@@ -2,6 +2,7 @@ import 'package:flutter/material.dart';
 
 void main() => runApp(const MyApp());
 
+// Flutter 自定义AppBar 定义顶部Tab切换  底部Tab结合顶部Tab实现类似头条页面布局
 class MyApp extends StatelessWidget {
   const MyApp({super.key});
 

@@ -4,6 +4,7 @@ void main() {
   runApp(MyApp());
 }
 
+// Flutter Container 组件、Text 组件详解
 class MyApp extends StatelessWidget {
   const MyApp({super.key});
 

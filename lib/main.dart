@@ -5,6 +5,7 @@ import 'package:dio/dio.dart';
 
 void main() => runApp(const MyApp());
 
+// Flutter Dio 库实现网络请求以及动态渲染数据
 class MyApp extends StatelessWidget {
   const MyApp({super.key});
 

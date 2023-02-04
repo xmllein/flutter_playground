@@ -3,6 +3,7 @@ import 'package:date_format/date_format.dart';
 
 void main() => runApp(const MyApp());
 
+// Flutter FloatingActionButton实现类似闲鱼App底部导航凸起按钮导航
 class MyApp extends StatelessWidget {
   const MyApp({super.key});
 

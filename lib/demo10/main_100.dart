@@ -2,6 +2,7 @@ import 'package:flutter/material.dart';
 
 void main() => runApp(const MyApp());
 
+// Flutter StatefulWidget 有状态组件 、页面上绑定数据、改变页面数据 、实现计数器功能 动态列表
 class MyApp extends StatelessWidget {
   const MyApp({super.key});
 

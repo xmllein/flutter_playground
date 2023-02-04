@@ -2,6 +2,7 @@ import 'package:flutter/material.dart';
 
 void main() => runApp(const MyApp());
 
+// Flutter GridView 组件 以及动态 GridView
 class MyApp extends StatelessWidget {
   const MyApp({super.key});
 

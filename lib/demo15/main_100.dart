@@ -5,6 +5,7 @@ import 'package:another_transformer_page_view/another_transformer_page_view.dart
 
 void main() => runApp(const MyApp());
 
+// Flutter 轮播图 flutter_swiper
 class MyApp extends StatelessWidget {
   const MyApp({super.key});
 

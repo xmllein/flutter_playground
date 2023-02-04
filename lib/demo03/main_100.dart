@@ -4,6 +4,7 @@ void main() {
   runApp(MyApp());
 }
 
+// Flutter 图片组件 Image 、本地图片、远程图片、图片剪切
 class MyApp extends StatelessWidget {
   const MyApp({super.key});
 

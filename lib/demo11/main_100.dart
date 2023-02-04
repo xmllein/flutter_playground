@@ -5,6 +5,8 @@ import '/pages/School.dart';
 
 void main() => runApp(const MyApp());
 
+// Flutter BottomNavigationBar 自定义底部导航条、以及实现页面切换
+// Flutter 中的路由 普通路由、普通路由传值、命名路由、命名路由传值
 class MyApp extends StatelessWidget {
   const MyApp({super.key});
 

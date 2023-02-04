@@ -2,6 +2,7 @@ import 'package:flutter/material.dart';
 
 void main() => runApp(MyApp());
 
+// Flutter 页面布局 Stack 层叠组件 Stack 与 Align Stack 与 Positioned 实现定位布局
 class MyApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {

@@ -1,5 +1,6 @@
 import 'package:flutter/material.dart';
 
+// flutter 目录 入口 自定义组件 Center 组件 Text 组件、MaterialApp 组件、Scaffold 组件
 void main() => runApp(const MyApp());
 
 class MyApp extends StatelessWidget {

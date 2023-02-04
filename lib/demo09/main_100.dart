@@ -2,6 +2,7 @@ import 'package:flutter/material.dart';
 
 void main() => runApp(const MyApp());
 
+// Flutter 页面布局 Flutter AspectRatio、Card 卡片组件、卡片图文列表
 class MyApp extends StatelessWidget {
   const MyApp({super.key});
 
